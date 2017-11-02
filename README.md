@@ -1,5 +1,3 @@
-"# verstka"  git init git add README.md git commit -m "first commit" git remote add origin https://github.com/tulchan/verstka.git git push -u origin master
-"# verstka" 
-"# verstka" 
-
-Хочу получить удовольствие, почувствовать свой уровень самоорганизации, и понять как все устроено. 
+#verstka
+Р’СЃРµРј РїСЂРёРІРµС‚!
+РҐРѕС‡Сѓ РїРѕР»СѓС‡РёС‚СЊ СѓРґРѕРІРѕР»СЊСЃС‚РІРёРµ, РїСЂРѕРІРµСЂРёС‚СЊ СЃРІРѕР№ СЃР°РјРѕРєРѕРЅС‚СЂРѕР»СЊ Рё РїРѕРЅСЏС‚СЊ С‡РµРіРѕ РѕР¶РёРґР°С‚СЊ РѕС‚ СЌС‚РѕР№ СЃС„РµСЂС‹.
